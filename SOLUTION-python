@@ -1,0 +1,6 @@
+def complement_dna (dna):
+    complement = dna.replace('A','t').replace('T','a').replace('G','c').replace('C','g').upper()
+    reverse_complement = complement [::-1]
+    return reverse_complement
+dna = input("Enter DNA Sequence: ")
+print('Reverse complement: ' + complement_dna(dna))
