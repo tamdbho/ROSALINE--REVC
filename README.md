@@ -1,5 +1,6 @@
-# ROSALINE-RNA
-PROBLEM: Transcribing DNA to RNA
+# ROSALINE-REVC
+PROBLEM: Complementing a Strand of DNA
 
-Given: A DNA string t having length at most 1000 nt.
-Return: The transcribed RNA string of t
+Given: A DNA string s of length at most 1000 bp.
+Return: The reverse complement sc
+
