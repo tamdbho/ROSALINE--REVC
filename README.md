@@ -1,0 +1,2 @@
+# ROSALINE-RNA
+PROBLEM: Transcribing DNA to RNA
